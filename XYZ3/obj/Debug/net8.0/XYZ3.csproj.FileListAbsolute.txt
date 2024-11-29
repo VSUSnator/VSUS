@@ -1,0 +1,14 @@
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\bin\Debug\net8.0\XYZ3.exe
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\bin\Debug\net8.0\XYZ3.deps.json
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\bin\Debug\net8.0\XYZ3.runtimeconfig.json
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\bin\Debug\net8.0\XYZ3.dll
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\bin\Debug\net8.0\XYZ3.pdb
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.AssemblyInfoInputs.cache
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.AssemblyInfo.cs
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.csproj.CoreCompileInputs.cache
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.dll
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\refint\XYZ3.dll
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.pdb
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\XYZ3.genruntimeconfig.cache
+C:\Users\KuznecovVD\source\repos\XYZ3\XYZ3\obj\Debug\net8.0\ref\XYZ3.dll
