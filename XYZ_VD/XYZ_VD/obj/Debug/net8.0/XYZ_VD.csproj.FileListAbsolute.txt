@@ -1,0 +1,14 @@
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.AssemblyInfoInputs.cache
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.AssemblyInfo.cs
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.csproj.CoreCompileInputs.cache
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\bin\Debug\net8.0\XYZ_VD.exe
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\bin\Debug\net8.0\XYZ_VD.deps.json
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\bin\Debug\net8.0\XYZ_VD.runtimeconfig.json
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\bin\Debug\net8.0\XYZ_VD.dll
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\bin\Debug\net8.0\XYZ_VD.pdb
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.dll
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\refint\XYZ_VD.dll
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.pdb
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\XYZ_VD.genruntimeconfig.cache
+C:\Users\KuznecovVD\source\repos\XYZ_VD\XYZ_VD\obj\Debug\net8.0\ref\XYZ_VD.dll
